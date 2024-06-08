@@ -1,6 +1,6 @@
 # Ungry Mama
 
-Ungry Mama è un programma che organizza automaticamente i file in una cartella selezionata dall'utente, creando sottocartelle per immagini, video, documenti, archivi, eseguibili, musica e altro. Questo programma è stato creato da Fabio Bracciali (elblasco01) con l'assistenza di ChatGPT (OpenAI).
+Ungry Mama è un programma che organizza automaticamente i file in una cartella selezionata dall'utente, creando sottocartelle per immagini, video, documenti, archivi, eseguibili, musica e altro. Questo programma è stato creato da Fabio Bracciali (f.bracciali@gmail.com) con l'assistenza di ChatGPT (OpenAI).
 
 ## Utilizzo del Programma
 
